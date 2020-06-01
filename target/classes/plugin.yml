@@ -1,8 +1,0 @@
-main: rockaBe.testplugin.App
-name: TestPlugin
-version: 0.2
-
-commands:
-   usekit:
-      description: Receive 20 diamonds and 10 bricks
-      usage: /<command> 
